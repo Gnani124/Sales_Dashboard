@@ -58,11 +58,11 @@ This project presents a comprehensive \*\*Sales Dashboard\*\* built using Power 
 
 \## 📂 Files Included
 
-\- Dataset.xlsx  
+\- Dataset.xlsx
 
-\- Sales Dashboard.pbix  
+\- Sales Dashboard.pbix
 
-\- Dashboard Img.png  
+\- Dashboard Img.png
 
 
 
@@ -72,13 +72,13 @@ This project presents a comprehensive \*\*Sales Dashboard\*\* built using Power 
 
 \## 💡 Key Learnings
 
-\- Data modeling and relationships  
+\- Data modeling and relationships
 
-\- Time intelligence functions  
+\- Time intelligence functions
 
-\- KPI design and visualization  
+\- KPI design and visualization
 
-\- Business insights generation  
+\- Business insights generation
 
 
 
@@ -87,4 +87,16 @@ This project presents a comprehensive \*\*Sales Dashboard\*\* built using Power 
 
 
 ⭐ If you like this project, give it a star!
+
+
+
+\## 📷 Dashboard Preview
+
+
+
+Here is the visual representation of the Power BI dashboard:
+
+
+
+!\[Dashboard](Dashboard Img.png)
 
