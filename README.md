@@ -97,6 +97,6 @@ This project presents a comprehensive \*\*Sales Dashboard\*\* built using Power 
 Here is the visual representation of the Power BI dashboard:
 
 
+<img width="1469" height="805" alt="Dashboard Img" src="https://github.com/user-attachments/assets/fe35d77b-5fcb-4d73-8f40-a2af996aa20f" />
 
-!\[Dashboard](Dashboard Img.png)
 
